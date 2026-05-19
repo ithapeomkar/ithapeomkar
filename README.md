@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Sc. Computer Science** graduate with **CGPA 7.98/10**
+- 🎓 **B.Sc. Computer Science** graduate with **CGPA 8.02/10**
 - 📍 Based in **Satara, India**
 - 🌱 Currently exploring **Python, JavaScript, and Web Development**
 - 💼 Completed internship at **Squirrel Infotech, Satara**
